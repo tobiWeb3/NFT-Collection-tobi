@@ -13,4 +13,3 @@ export default function handler(req, res) {
     description: "Crypto Dev is a collection of developers in crypto",
     image: image_url + tokenId + ".svg",
   });
-}
